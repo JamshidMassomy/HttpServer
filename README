@@ -1,4 +1,4 @@
-Two solution for the technical -assignments in handling Http request
+
 	
 	
 	Solutions A:
@@ -19,6 +19,3 @@ Two solution for the technical -assignments in handling Http request
 		Handler
 		MainClass  Note: Objects are initialized in main class
 		
-		
-the sum logic for each request needs further enhancements and further development
-the current solutions context works to get multiple delayed request in multi-threading environment
