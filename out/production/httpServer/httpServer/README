@@ -1,0 +1,21 @@
+There are two solution to listen for http request (POST)
+
+
+1.1 - Handler
+1.2 - Server
+//for running this solution uncomment the objects
+
+
+2- Socket
+//socket based programming
+Object are initialized in the main class
+for both solution
+
+Note:
+the solutions needs more enhancement to save
+current solutions:
+GET post requests
+waits for the further requests
+until received end post requests
+the sum logic needs further enhancements and further development
+the current solutions context works to get multiple delayed request in multi-threading environment

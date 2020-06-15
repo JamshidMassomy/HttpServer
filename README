@@ -1,0 +1,24 @@
+Two solution for the technical -assignments in handling Http request
+	
+	
+	Solutions A:
+		1- HttpServer 
+			1.1 - Handler
+			1.2 - Server
+			
+		Note: for running this solution uncomment the class in the main
+
+
+	Solutions B:
+		2- Socket listener 
+				
+	Classes:
+		RootHandler
+		Server
+		Socket
+		Handler
+		MainClass  Note: Objects are initialized in main class
+		
+		
+the sum logic for each request needs further enhancements and further development
+the current solutions context works to get multiple delayed request in multi-threading environment
